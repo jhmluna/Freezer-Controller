@@ -10,11 +10,7 @@ You must have a Telegram Bot for this example to work. To make one,
 5. Type in and send the username for your bot (ending in bot)
 6. Copy the token provided by BotFather and paste it at BOTtoken below
 Telegram Bot API documentation available at https://core.telegram.org/bots/api
-Note: As of 3rd Jan. 2018, it is necessary to use espressif32_stage
-platform for PlatformIO
-written by Giacarlo Bacchio (Gianbacchio on Github)
-adapted by Brian Lough ( witnessmenow ) for UniversalTelegramBot library
-adapted by Pranav Sharma ( PRO2XY ) for ESP32 on PlatformIO
+Note: As of 3rd Jan. 2018, it is necessary to use espressif32_stage platform for PlatformIO written by Giacarlo Bacchio (Gianbacchio on Github) adapted by Brian Lough ( witnessmenow ) for UniversalTelegramBot library adapted by Pranav Sharma ( PRO2XY ) for ESP32 on PlatformIO
 Library related discussions on https://t.me/arduino_telegram_library
 
 https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot/blob/master/platformioExamples/AdvancedLED/src/main.cpp
